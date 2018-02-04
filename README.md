@@ -8,9 +8,7 @@
 
 ## Memo
 
-```
-#!javascript
-
+```javascript
 /*
  * Basically this function done the wrap job for Node.js async lib -> 'parallel' kinds API, more details can refer here:
  *   http://www.sebastianseilund.com/nodejs-async-in-practice
